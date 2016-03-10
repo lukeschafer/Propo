@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Propo.Framework</id>
+    <version>$version$</version>
+    <title>Propo.Framework</title>
+    <authors>Luke Schafer (@lukeschafer)</authors>
+    <owners>Luke Schafer</owners>
+    <projectUrl>https://github.com/lukeschafer/Propo</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>CQRS-ish</description>
+    <tags>CQRS Event EventSourcing</tags>
+  </metadata>
+</package>
