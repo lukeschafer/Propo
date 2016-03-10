@@ -1,0 +1,2 @@
+# Propo
+CQRS-ish
